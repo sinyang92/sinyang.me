@@ -1,18 +1,18 @@
 {
   "main": {
     "name":"Shixi Yang",
-    "occupation":"(Your Occupation Here)",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "occupation":"N/A",
+    "description":"N/A",
     "image":"sin.png",
     "bio":"Master of Information Technology graduate from Monash University, focusing on Computer Science area, including web/mobile development, and Big Data processing. Team player and fast learner. Interested in cutting edge technologies and always keep learning.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "contactmessage":"N/A",
     "email": "svenyang92@gmail.com",
     "phone": "0414392383",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"",
+      "city":"",
+      "state":"",
+      "zip": ""
     },
     "website": "http://www.singyang.me",
     "resumedownload":"Shixi Yang-Resume.pdf",
@@ -30,7 +30,6 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
         "school":"Monash University - Caulfield",
@@ -42,7 +41,7 @@
         "school":"Monash University - Clayton",
         "degree":"Bachelor of Computer Science",
         "graduated":"May 2017",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description":""
       }
     ],
     "work":[
@@ -99,14 +98,6 @@
         "category":"Accessibility Information of Melbourne CBD",
         "image":"mable.png",
         "url":"https://mable.ml"
-      }
-    ]
-  },
-  "testimonials":{
-    "testimonials":[
-      {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
       }
     ]
   }
